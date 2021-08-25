@@ -8,4 +8,4 @@
 
 ## note
 
-This is for now just a simple copy-paste of [this](https://stackoverflow.com/a/21957017) but it might get additional "features" that I would need.
+This is for now just a simple copy-paste of [this](https://stackoverflow.com/a/21957017) but it might get additional "features" that I would need or it might be totally changed to my needs.
